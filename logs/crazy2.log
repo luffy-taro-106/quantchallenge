@@ -1,0 +1,392 @@
+main    : Logging initialized!
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=52.50, qty=10
+algo_print: algo_print: Score 98-90 | Time 202.0s | Mid 50.00 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=52.50, qty=10
+algo_print: algo_print: Score 98-90 | Time 201.0s | Mid 50.00 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=52.50, qty=10
+algo_print: algo_print: Score 98-90 | Time 200.0s | Mid 50.00 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.17, qty=10
+algo_print: algo_print: Score 98-90 | Time 199.0s | Mid 74.44 | Enc 3252
+algo_print: [BUY] fair_price=96.73 > market_price+threshold=78.18, qty=10
+algo_print: algo_print: Score 98-90 | Time 197.0s | Mid 74.46 | Enc 1452
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.19, qty=10
+algo_print: algo_print: Score 98-90 | Time 195.0s | Mid 74.47 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.19, qty=10
+algo_print: algo_print: Score 98-90 | Time 194.0s | Mid 74.47 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.19, qty=10
+algo_print: algo_print: Score 98-90 | Time 193.0s | Mid 74.47 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.23, qty=10
+algo_print: algo_print: Score 98-90 | Time 192.0s | Mid 74.51 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.17, qty=10
+algo_print: algo_print: Score 98-90 | Time 191.0s | Mid 74.44 | Enc 3252
+algo_print: [BUY] fair_price=96.55 > market_price+threshold=78.11, qty=10
+algo_print: algo_print: Score 98-90 | Time 189.0s | Mid 74.40 | Enc 2342
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.21, qty=10
+algo_print: algo_print: Score 98-90 | Time 187.0s | Mid 74.49 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.19, qty=10
+algo_print: algo_print: Score 98-90 | Time 186.0s | Mid 74.47 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.16, qty=10
+algo_print: algo_print: Score 98-90 | Time 185.0s | Mid 74.44 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.14, qty=10
+algo_print: algo_print: Score 98-90 | Time 184.0s | Mid 74.42 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.19, qty=10
+algo_print: algo_print: Score 98-90 | Time 183.0s | Mid 74.47 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.16, qty=10
+algo_print: algo_print: Score 98-90 | Time 182.0s | Mid 74.44 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.15, qty=10
+algo_print: algo_print: Score 98-90 | Time 181.0s | Mid 74.42 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.16, qty=10
+algo_print: algo_print: Score 98-90 | Time 179.0s | Mid 74.44 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.12, qty=10
+algo_print: algo_print: Score 98-90 | Time 178.0s | Mid 74.40 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.19, qty=10
+algo_print: algo_print: Score 98-90 | Time 177.0s | Mid 74.47 | Enc 3252
+algo_print: [BUY] fair_price=96.39 > market_price+threshold=78.14, qty=10
+algo_print: algo_print: Score 98-90 | Time 175.0s | Mid 74.42 | Enc 3252
+algo_print: [BUY] fair_price=94.85 > market_price+threshold=78.16, qty=10
+algo_print: algo_print: Score 98-90 | Time 174.0s | Mid 74.44 | Enc 552
+algo_print: [BUY] fair_price=93.51 > market_price+threshold=78.16, qty=10
+algo_print: algo_print: Score 98-91 | Time 174.0s | Mid 74.44 | Enc 1002
+algo_print: [BUY] fair_price=91.92 > market_price+threshold=78.16, qty=10
+algo_print: algo_print: Score 98-92 | Time 174.0s | Mid 74.44 | Enc 1002
+algo_print: [BUY] fair_price=90.59 > market_price+threshold=78.16, qty=10
+algo_print: algo_print: Score 98-93 | Time 174.0s | Mid 74.44 | Enc 1002
+algo_print: algo_print: Score 98-93 | Time 173.0s | Mid 91.06 | Enc 3252
+algo_print: [BUY] fair_price=88.97 > market_price+threshold=85.97, qty=10
+algo_print: algo_print: Score 98-93 | Time 172.0s | Mid 81.88 | Enc 3252
+algo_print: [BUY] fair_price=88.97 > market_price+threshold=87.02, qty=10
+algo_print: algo_print: Score 98-93 | Time 171.0s | Mid 82.88 | Enc 3252
+algo_print: [BUY] fair_price=88.97 > market_price+threshold=88.12, qty=10
+algo_print: algo_print: Score 98-93 | Time 170.0s | Mid 83.92 | Enc 3252
+algo_print: [BUY] fair_price=88.97 > market_price+threshold=88.12, qty=10
+algo_print: algo_print: Score 98-93 | Time 169.0s | Mid 83.92 | Enc 3252
+algo_print: [BUY] fair_price=88.97 > market_price+threshold=88.54, qty=10
+algo_print: algo_print: Score 98-93 | Time 168.0s | Mid 84.32 | Enc 3252
+algo_print: [BUY] fair_price=88.97 > market_price+threshold=88.64, qty=10
+algo_print: algo_print: Score 98-93 | Time 167.0s | Mid 84.42 | Enc 3252
+algo_print: algo_print: Score 98-93 | Time 166.0s | Mid 84.75 | Enc 3252
+algo_print: algo_print: Score 98-93 | Time 165.0s | Mid 84.75 | Enc 3252
+algo_print: algo_print: Score 98-93 | Time 164.0s | Mid 84.92 | Enc 3252
+algo_print: algo_print: Score 98-93 | Time 161.0s | Mid 85.06 | Enc 3252
+algo_print: algo_print: Score 98-93 | Time 159.0s | Mid 85.37 | Enc 1342
+algo_print: algo_print: Score 98-93 | Time 158.0s | Mid 85.65 | Enc 351
+algo_print: algo_print: Score 98-93 | Time 158.0s | Mid 85.65 | Enc 552
+algo_print: algo_print: Score 98-94 | Time 158.0s | Mid 85.65 | Enc 1002
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=78.44, qty=10
+algo_print: algo_print: Score 98-94 | Time 157.0s | Mid 74.70 | Enc 3252
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=78.44, qty=10
+algo_print: algo_print: Score 98-94 | Time 156.0s | Mid 74.70 | Enc 3252
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=78.67, qty=10
+algo_print: algo_print: Score 98-94 | Time 155.0s | Mid 74.92 | Enc 3252
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=78.93, qty=10
+algo_print: algo_print: Score 98-94 | Time 152.0s | Mid 75.17 | Enc 3252
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=79.22, qty=10
+algo_print: algo_print: Score 98-94 | Time 151.0s | Mid 75.45 | Enc 3252
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=79.22, qty=10
+algo_print: algo_print: Score 98-94 | Time 150.0s | Mid 75.45 | Enc 3252
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=79.53, qty=10
+algo_print: algo_print: Score 98-94 | Time 149.0s | Mid 75.74 | Enc 3252
+algo_print: [BUY] fair_price=84.20 > market_price+threshold=79.70, qty=10
+algo_print: algo_print: Score 98-94 | Time 148.0s | Mid 75.90 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=79.84, qty=10
+algo_print: algo_print: Score 98-94 | Time 147.0s | Mid 76.04 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=79.84, qty=10
+algo_print: algo_print: Score 98-94 | Time 146.0s | Mid 76.04 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=79.84, qty=10
+algo_print: algo_print: Score 98-94 | Time 145.0s | Mid 76.04 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=79.84, qty=10
+algo_print: algo_print: Score 98-94 | Time 144.0s | Mid 76.04 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.10, qty=10
+algo_print: algo_print: Score 98-94 | Time 143.0s | Mid 76.29 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.27, qty=10
+algo_print: algo_print: Score 98-94 | Time 142.0s | Mid 76.45 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.27, qty=10
+algo_print: algo_print: Score 98-94 | Time 141.0s | Mid 76.45 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.18, qty=10
+algo_print: algo_print: Score 98-94 | Time 140.0s | Mid 76.36 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.37, qty=10
+algo_print: algo_print: Score 98-94 | Time 139.0s | Mid 76.54 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.49, qty=10
+algo_print: algo_print: Score 98-94 | Time 138.0s | Mid 76.66 | Enc 3252
+algo_print: [BUY] fair_price=83.34 > market_price+threshold=80.49, qty=10
+algo_print: algo_print: Score 98-94 | Time 137.0s | Mid 76.66 | Enc 2312
+algo_print: [BUY] fair_price=81.50 > market_price+threshold=80.63, qty=10
+algo_print: algo_print: Score 98-94 | Time 136.0s | Mid 76.79 | Enc 351
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.72, qty=10
+algo_print: algo_print: Score 98-94 | Time 135.0s | Mid 76.88 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.72, qty=10
+algo_print: algo_print: Score 98-94 | Time 134.0s | Mid 76.88 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.79, qty=10
+algo_print: algo_print: Score 98-94 | Time 133.0s | Mid 76.94 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.79, qty=10
+algo_print: algo_print: Score 98-94 | Time 132.0s | Mid 76.94 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.95, qty=10
+algo_print: algo_print: Score 98-94 | Time 131.0s | Mid 77.10 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=80.95, qty=10
+algo_print: algo_print: Score 98-94 | Time 130.0s | Mid 77.10 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=81.08, qty=10
+algo_print: algo_print: Score 98-94 | Time 129.0s | Mid 77.22 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=81.10, qty=10
+algo_print: algo_print: Score 98-94 | Time 128.0s | Mid 77.24 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=81.24, qty=10
+algo_print: algo_print: Score 98-94 | Time 127.0s | Mid 77.37 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=81.30, qty=10
+algo_print: algo_print: Score 98-94 | Time 126.0s | Mid 77.43 | Enc 3252
+algo_print: [BUY] fair_price=83.13 > market_price+threshold=81.25, qty=10
+algo_print: algo_print: Score 98-94 | Time 125.0s | Mid 77.38 | Enc 3252
+algo_print: [BUY] fair_price=83.47 > market_price+threshold=81.25, qty=10
+algo_print: algo_print: Score 98-94 | Time 124.0s | Mid 77.38 | Enc 1552
+algo_print: [BUY] fair_price=81.30 > market_price+threshold=81.25, qty=10
+algo_print: algo_print: Score 98-94 | Time 124.0s | Mid 77.38 | Enc 1302
+algo_print: algo_print: Score 98-94 | Time 124.0s | Mid 77.38 | Enc 350
+algo_print: [BUY] fair_price=81.31 > market_price+threshold=81.25, qty=10
+algo_print: algo_print: Score 99-94 | Time 124.0s | Mid 77.38 | Enc 2
+algo_print: [SELL] fair_price=83.63 < market_price-threshold=84.86, qty=1
+algo_print: algo_print: Score 99-94 | Time 120.0s | Mid 89.33 | Enc 3252
+algo_print: [SELL] fair_price=83.63 < market_price-threshold=85.13, qty=1
+algo_print: algo_print: Score 99-94 | Time 119.0s | Mid 89.61 | Enc 3252
+algo_print: [SELL] fair_price=83.63 < market_price-threshold=85.07, qty=1
+algo_print: algo_print: Score 99-94 | Time 118.0s | Mid 89.55 | Enc 3252
+algo_print: [SELL] fair_price=83.63 < market_price-threshold=85.07, qty=1
+algo_print: algo_print: Score 99-94 | Time 117.0s | Mid 89.55 | Enc 3252
+algo_print: algo_print: Score 99-94 | Time 115.0s | Mid 89.59 | Enc 552
+algo_print: algo_print: Score 99-95 | Time 115.0s | Mid 89.59 | Enc 1002
+algo_print: algo_print: Score 99-95 | Time 115.0s | Mid 89.59 | Enc 1152
+algo_print: [SELL] fair_price=82.04 < market_price-threshold=85.11, qty=1
+algo_print: algo_print: Score 99-96 | Time 115.0s | Mid 89.59 | Enc 1002
+algo_print: [SELL] fair_price=80.43 < market_price-threshold=85.11, qty=1
+algo_print: algo_print: Score 99-96 | Time 114.0s | Mid 89.59 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=70.21, qty=10
+algo_print: algo_print: Score 99-96 | Time 113.0s | Mid 66.87 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=70.72, qty=10
+algo_print: algo_print: Score 99-96 | Time 112.0s | Mid 67.35 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=71.11, qty=10
+algo_print: algo_print: Score 99-96 | Time 111.0s | Mid 67.72 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=71.44, qty=10
+algo_print: algo_print: Score 99-96 | Time 110.0s | Mid 68.04 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=71.44, qty=10
+algo_print: algo_print: Score 99-96 | Time 109.0s | Mid 68.04 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=71.62, qty=10
+algo_print: algo_print: Score 99-96 | Time 108.0s | Mid 68.21 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=71.96, qty=10
+algo_print: algo_print: Score 99-96 | Time 105.0s | Mid 68.53 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=72.08, qty=10
+algo_print: algo_print: Score 99-96 | Time 104.0s | Mid 68.65 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=72.11, qty=10
+algo_print: algo_print: Score 99-96 | Time 103.0s | Mid 68.68 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=72.21, qty=10
+algo_print: algo_print: Score 99-96 | Time 100.0s | Mid 68.77 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=72.21, qty=10
+algo_print: algo_print: Score 99-96 | Time 99.0s | Mid 68.77 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=72.40, qty=10
+algo_print: algo_print: Score 99-96 | Time 98.0s | Mid 68.95 | Enc 3252
+algo_print: [BUY] fair_price=80.43 > market_price+threshold=72.51, qty=10
+algo_print: algo_print: Score 99-96 | Time 97.0s | Mid 69.06 | Enc 3252
+algo_print: algo_print: Score 99-96 | Time 96.0s | Mid 69.14 | Enc 1552
+algo_print: algo_print: Score 99-96 | Time 96.0s | Mid 69.14 | Enc 1302
+algo_print: algo_print: Score 99-96 | Time 96.0s | Mid 69.14 | Enc 350
+algo_print: [BUY] fair_price=74.67 > market_price+threshold=72.60, qty=10
+algo_print: algo_print: Score 100-96 | Time 96.0s | Mid 69.14 | Enc 2
+algo_print: algo_print: Score 100-96 | Time 95.0s | Mid 80.31 | Enc 3252
+algo_print: algo_print: Score 100-96 | Time 91.0s | Mid 79.74 | Enc 3252
+algo_print: algo_print: Score 100-96 | Time 87.0s | Mid 79.72 | Enc 3252
+algo_print: algo_print: Score 100-96 | Time 86.0s | Mid 80.04 | Enc 3252
+algo_print: algo_print: Score 100-96 | Time 85.0s | Mid 80.04 | Enc 3252
+algo_print: [SELL] fair_price=68.17 < market_price-threshold=76.16, qty=1
+algo_print: algo_print: Score 100-99 | Time 83.0s | Mid 80.17 | Enc 1012
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=53.92, qty=10
+algo_print: algo_print: Score 100-99 | Time 82.0s | Mid 51.35 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=53.92, qty=10
+algo_print: algo_print: Score 100-99 | Time 81.0s | Mid 51.35 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=54.69, qty=10
+algo_print: algo_print: Score 100-99 | Time 80.0s | Mid 52.09 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=55.25, qty=10
+algo_print: algo_print: Score 100-99 | Time 79.0s | Mid 52.62 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=55.64, qty=10
+algo_print: algo_print: Score 100-99 | Time 78.0s | Mid 52.99 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=55.64, qty=10
+algo_print: algo_print: Score 100-99 | Time 77.0s | Mid 52.99 | Enc 3252
+algo_print: [BUY] fair_price=65.13 > market_price+threshold=55.73, qty=10
+algo_print: algo_print: Score 100-99 | Time 76.0s | Mid 53.08 | Enc 452
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.04, qty=10
+algo_print: algo_print: Score 100-99 | Time 75.0s | Mid 53.37 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.19, qty=10
+algo_print: algo_print: Score 100-99 | Time 74.0s | Mid 53.51 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.20, qty=10
+algo_print: algo_print: Score 100-99 | Time 73.0s | Mid 53.52 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.20, qty=10
+algo_print: algo_print: Score 100-99 | Time 72.0s | Mid 53.52 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.20, qty=10
+algo_print: algo_print: Score 100-99 | Time 71.0s | Mid 53.52 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.35, qty=10
+algo_print: algo_print: Score 100-99 | Time 70.0s | Mid 53.67 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.48, qty=10
+algo_print: algo_print: Score 100-99 | Time 69.0s | Mid 53.79 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.48, qty=10
+algo_print: algo_print: Score 100-99 | Time 68.0s | Mid 53.79 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.45, qty=10
+algo_print: algo_print: Score 100-99 | Time 67.0s | Mid 53.76 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.45, qty=10
+algo_print: algo_print: Score 100-99 | Time 66.0s | Mid 53.76 | Enc 3252
+algo_print: [BUY] fair_price=66.77 > market_price+threshold=56.52, qty=10
+algo_print: algo_print: Score 100-99 | Time 65.0s | Mid 53.83 | Enc 3252
+algo_print: [BUY] fair_price=59.80 > market_price+threshold=56.58, qty=10
+algo_print: algo_print: Score 100-99 | Time 64.0s | Mid 53.89 | Enc 452
+algo_print: [BUY] fair_price=62.99 > market_price+threshold=56.63, qty=10
+algo_print: algo_print: Score 102-99 | Time 61.0s | Mid 53.93 | Enc 42
+algo_print: [BUY] fair_price=65.21 > market_price+threshold=56.63, qty=10
+algo_print: algo_print: Score 102-99 | Time 60.0s | Mid 53.93 | Enc 3252
+algo_print: [BUY] fair_price=65.21 > market_price+threshold=56.63, qty=10
+algo_print: algo_print: Score 102-99 | Time 59.0s | Mid 53.93 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=68.64, qty=1
+algo_print: algo_print: Score 102-99 | Time 58.0s | Mid 72.25 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=68.54, qty=1
+algo_print: algo_print: Score 102-99 | Time 57.0s | Mid 72.15 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=68.32, qty=1
+algo_print: algo_print: Score 102-99 | Time 56.0s | Mid 71.92 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=67.74, qty=1
+algo_print: algo_print: Score 102-99 | Time 55.0s | Mid 71.31 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=67.74, qty=1
+algo_print: algo_print: Score 102-99 | Time 54.0s | Mid 71.31 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=67.68, qty=1
+algo_print: algo_print: Score 102-99 | Time 53.0s | Mid 71.24 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=67.64, qty=1
+algo_print: algo_print: Score 102-99 | Time 52.0s | Mid 71.20 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=67.64, qty=1
+algo_print: algo_print: Score 102-99 | Time 51.0s | Mid 71.20 | Enc 3252
+algo_print: [SELL] fair_price=65.82 < market_price-threshold=67.64, qty=1
+algo_print: algo_print: Score 102-99 | Time 50.9s | Mid 71.20 | Enc 2322
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=67.66, qty=1
+algo_print: algo_print: Score 102-99 | Time 49.0s | Mid 71.22 | Enc 3252
+algo_print: [SELL] fair_price=65.21 < market_price-threshold=67.76, qty=1
+algo_print: algo_print: Score 102-99 | Time 48.0s | Mid 71.33 | Enc 3252
+algo_print: [SELL] fair_price=65.10 < market_price-threshold=67.76, qty=1
+algo_print: algo_print: Score 102-99 | Time 47.2s | Mid 71.33 | Enc 1350
+algo_print: [SELL] fair_price=65.55 < market_price-threshold=67.76, qty=1
+algo_print: algo_print: Score 102-99 | Time 47.2s | Mid 71.33 | Enc 1452
+algo_print: algo_print: Score 102-99 | Time 46.0s | Mid 71.33 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 45.0s | Mid 71.33 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 44.0s | Mid 71.35 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 43.0s | Mid 71.34 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 42.9s | Mid 71.34 | Enc 2342
+algo_print: algo_print: Score 102-99 | Time 40.0s | Mid 71.38 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 39.0s | Mid 71.55 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 38.0s | Mid 71.55 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 37.0s | Mid 71.55 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 36.0s | Mid 71.55 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 35.0s | Mid 71.68 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 34.0s | Mid 71.74 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 33.0s | Mid 71.74 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 31.0s | Mid 71.89 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 30.0s | Mid 71.89 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 29.0s | Mid 71.89 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 28.0s | Mid 71.85 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 27.0s | Mid 72.12 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 26.0s | Mid 72.12 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 23.0s | Mid 72.12 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 22.0s | Mid 72.17 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 21.0s | Mid 72.17 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 16.2s | Mid 72.45 | Enc 1351
+algo_print: algo_print: Score 102-99 | Time 15.0s | Mid 72.65 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 14.0s | Mid 72.65 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 13.0s | Mid 74.89 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 12.0s | Mid 72.70 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 10.0s | Mid 72.82 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 9.0s | Mid 72.82 | Enc 3252
+algo_print: algo_print: Score 102-99 | Time 8.2s | Mid 72.96 | Enc 552
+algo_print: algo_print: Score 102-99 | Time 8.2s | Mid 72.96 | Enc 2152
+algo_print: algo_print: Score 102-99 | Time 8.2s | Mid 72.96 | Enc 1152
+algo_print: algo_print: Score 102-100 | Time 8.2s | Mid 72.96 | Enc 1002
+algo_print: algo_print: Score 102-101 | Time 8.2s | Mid 72.96 | Enc 1002
+algo_print: [SELL] fair_price=68.56 < market_price-threshold=69.31, qty=1
+algo_print: algo_print: Score 102-101 | Time 8.2s | Mid 72.96 | Enc 452
+algo_print: [SELL] fair_price=68.68 < market_price-threshold=69.31, qty=1
+algo_print: algo_print: Score 102-101 | Time 8.2s | Mid 72.96 | Enc 1152
+algo_print: [BUY] fair_price=73.21 > market_price+threshold=55.52, qty=10
+algo_print: algo_print: Score 102-101 | Time 7.0s | Mid 52.88 | Enc 3252
+algo_print: [BUY] fair_price=73.54 > market_price+threshold=55.94, qty=10
+algo_print: algo_print: Score 102-101 | Time 6.3s | Mid 53.28 | Enc 1552
+algo_print: [BUY] fair_price=71.69 > market_price+threshold=55.94, qty=10
+algo_print: algo_print: Score 102-101 | Time 6.3s | Mid 53.28 | Enc 1152
+algo_print: [BUY] fair_price=70.70 > market_price+threshold=55.94, qty=10
+algo_print: algo_print: Score 103-101 | Time 6.3s | Mid 53.28 | Enc 2
+algo_print: [BUY] fair_price=73.13 > market_price+threshold=55.94, qty=10
+algo_print: algo_print: Score 104-101 | Time 6.3s | Mid 53.28 | Enc 2
+algo_print: [SELL] fair_price=65.05 < market_price-threshold=70.07, qty=1
+algo_print: algo_print: Score 104-101 | Time 5.0s | Mid 73.76 | Enc 3252
+algo_print: [SELL] fair_price=63.42 < market_price-threshold=70.07, qty=1
+algo_print: algo_print: Score 104-101 | Time 4.5s | Mid 73.76 | Enc 552
+algo_print: [SELL] fair_price=65.47 < market_price-threshold=70.07, qty=1
+algo_print: algo_print: Score 104-101 | Time 4.5s | Mid 73.76 | Enc 2302
+algo_print: [SELL] fair_price=64.94 < market_price-threshold=70.07, qty=1
+algo_print: algo_print: Score 104-101 | Time 4.5s | Mid 73.76 | Enc 1350
+algo_print: [SELL] fair_price=63.53 < market_price-threshold=70.07, qty=1
+algo_print: algo_print: Score 104-101 | Time 4.5s | Mid 73.76 | Enc 1152
+algo_print: [SELL] fair_price=63.53 < market_price-threshold=70.07, qty=1
+algo_print: algo_print: Score 104-101 | Time 4.5s | Mid 73.76 | Enc 1152
+algo_print: [SELL] fair_price=64.25 < market_price-threshold=70.07, qty=1
+algo_print: algo_print: Score 104-102 | Time 4.5s | Mid 73.76 | Enc 1002
+algo_print: [BUY] fair_price=74.18 > market_price+threshold=65.38, qty=10
+algo_print: algo_print: Score 106-102 | Time 2.0s | Mid 62.26 | Enc 3252
+algo_print: [SELL] fair_price=74.18 < market_price-threshold=82.70, qty=1
+algo_print: algo_print: Score 106-102 | Time 1.0s | Mid 87.05 | Enc 3252
+algo_print: [SELL] fair_price=77.12 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2880.0s | Mid 89.12 | Enc 3452
+algo_print: [SELL] fair_price=77.31 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2880.0s | Mid 89.12 | Enc 852
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2879.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2878.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2877.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2876.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2875.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2874.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2873.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2872.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2871.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2870.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.37 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2869.0s | Mid 89.12 | Enc 1342
+algo_print: [SELL] fair_price=77.65 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2868.0s | Mid 89.12 | Enc 1351
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2867.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2866.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2865.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2864.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2863.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2862.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2861.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2860.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2859.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=77.26 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-0 | Time 2858.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=78.81 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-2 | Time 2857.0s | Mid 89.12 | Enc 1042
+algo_print: [SELL] fair_price=76.97 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-2 | Time 2856.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=76.97 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-2 | Time 2855.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=76.97 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-2 | Time 2854.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=76.97 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-2 | Time 2853.0s | Mid 89.12 | Enc 3252
+algo_print: [SELL] fair_price=76.97 < market_price-threshold=84.66, qty=1
+algo_print: algo_print: Score 0-2 | Time 2852.0s | Mid 89.12 | Enc 3252
